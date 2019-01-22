@@ -5,7 +5,7 @@
 3.  saisyu.pdf
 4.  image_cg.stl
 5.  image_cg.png
-6.  circuit_image.png
+6.  circuit_image.pdf
 
 
 ### 1.togo_ver.py
@@ -29,7 +29,7 @@
 >
 >製作したプロダクトの使用例の.pngファイル
 >
-### 6.circuit_image.png
+### 6.circuit_image.pdf
 >
 >Raspberry PiのGPIOピンの回路図
 >
