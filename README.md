@@ -13,11 +13,11 @@
 >Raspberry Piに使用したPythonのプログラム
 >  
 
-### 2.Kick_off_Meeting.key
+### 2.saisyu.key
 >
 >当日発表に使用したkeynoteファイル
 >
-### 3.Kick_off_Meeting.pdf
+### 3.saisyu.pdf
 >
 >当日発表に使用したkeynoteのpdf
 >
