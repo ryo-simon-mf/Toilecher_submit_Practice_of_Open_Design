@@ -1,11 +1,15 @@
 # submit-Practice_of_Open_Design
-## 提出ファイル
-1.  togo_ver2.py  
-2.  saisyu.key
-3.  saisyu.pdf
-4.  image_cg.stl
-5.  image_cg.png
-6.  circuit_image.pdf
+
+![image.png](https://raw.githubusercontent.com/ryo-simon-mf/submit-Practice_of_Open_Design/master/image/image_cg.png)
+
+
+### ファイル一覧
+1. togo_ver2.py  
+2. saisyu.key
+3. saisyu.pdf
+4. image_cg.stl
+5. image_cg.png
+6. circuit_image.pdf
 
 
 ### 1.togo_ver.py
